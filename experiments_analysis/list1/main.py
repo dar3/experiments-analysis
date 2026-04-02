@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 
-fe_load = pd.read_csv('data/stroke_risk_dataset_v2.csv')
+fe_load = pd.read_csv('../data/stroke_risk_dataset_v2.csv')
 
 
 print("Krotki przeglad danych z datasetu:")
